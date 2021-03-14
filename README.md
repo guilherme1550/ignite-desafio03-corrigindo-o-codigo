@@ -12,7 +12,7 @@
 
 ## 📙 Desafio
 
-Neste desafio, temos uma aplicação em Node.js, onde foi necessário analisar o código e realizar as devidas correções para que todos os testes fossem possível passarem. 
+Neste desafio, temos uma aplicação em Node.js, onde foi necessário analisar o código e realizar as devidas correções para que fossem possível passarem todos os testes . 
 
 Esta aplicacão realiza o CRUD(Create, Read, Update, Delete) de repósitorios de projeto. Sendo possível dar likes em cada repositórios, aumentando a quantidade de 1 em 1, cada vez que a rota é chamada.
 
