@@ -45,7 +45,7 @@ A rota retorna uma lista contendo todos os repositórios cadastrados;
 
 ### POST `/repositores`
 
-A rota recebe `title`, `url` e `techs` pelo corpo da requisição e retorna um objeto com as informações do repositório criado e um status `204`.
+A rota recebe `title`, `url` e `techs` pelo corpo da requisição e retorna um objeto com as informações do repositório criado e um status `201`.
 
 ### PUT `/repositores/:id`
 
