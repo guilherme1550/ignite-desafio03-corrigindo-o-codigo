@@ -29,7 +29,7 @@ Estrutura de um repositório a ser criado:
 `
 
 Descricão de cada propriedade:
-- id deve ser um uuid válido;
+- id é um uuid;
 - title é o título do repositório(exemplo: "unform");
 - url é a URL que aponta para o repositório(exemplo: "https://github.com/unform/unform");
 - techs é um array de string onde é possível guardar o nome de uma tecnologia relacionada ao repositório(exemplo: ["javacript", "nodejs"]);
