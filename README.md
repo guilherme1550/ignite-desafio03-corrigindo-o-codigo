@@ -119,7 +119,7 @@ Essa aplicacão foi desenvolvida com as seguintes tecnologias:
 
 - Clone o repositório
 - Instale as dependências com `yarn`
-- Utilize o Insomnia ou algum outro programa semelhante para realizar as requisicões.
+- Utilize o Insomnia ou algum outro programa semelhante para realizar as requisições.
 - Rode os testes com `yarn test`
 
 ---
