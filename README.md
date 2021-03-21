@@ -1,7 +1,7 @@
 <h1 align="center">Ignite Desafio 03 - Corrigindo o código</h1>
 
 <p align="center">
-  <a href="#-Projeto">Desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Desafio">Desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Rotas">Rotas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Testes-de-repositórios">Testes de repositórios</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Testes-de-likes">Testes de likes</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -109,7 +109,7 @@ Para que esse teste passe, deve-se validar que um repositório existe antes de i
 
 ## 💻 Tecnologias
 
-Essa aplicacão foi desenvolvido com as seguintes tecnologias:
+Essa aplicacão foi desenvolvida com as seguintes tecnologias:
 
 - [Express](https://expressjs.com/pt-br/)
 - [Jest](https://jestjs.io/)
@@ -119,6 +119,7 @@ Essa aplicacão foi desenvolvido com as seguintes tecnologias:
 
 - Clone o repositório
 - Instale as dependências com `yarn`
+- Utilize o Insomnia ou algum outro programa semelhante para realizar as requisicões.
 - Rode os testes com `yarn test`
 
 ---
